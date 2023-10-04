@@ -4,7 +4,7 @@
 
 This README file provides essential information about the JavaScript Calculator project. The JavaScript Calculator is a web-based calculator application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-![Calculator Demo](demo.mp4)
+![Calculator Demo](demo.gif)
 
 ## Demo
 
